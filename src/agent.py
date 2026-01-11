@@ -11,4 +11,4 @@ agent = Agent(
     debug_mode=True
 )
 
-agent.print_response("use your tools to find investment opportunities")
+agent.print_response()
